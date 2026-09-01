@@ -19,3 +19,7 @@ O objetivo do sistema é fornecer todas as ferramentas necessárias para o ciclo
 Repositórios:
 
 - [Pico da Neblina](https://github.com/splistcs/PicoDaNeblina)
+
+-------------------------------------------------------------
+
+![mensagem-confianca](https://emanuellamaria.com/wp-content/uploads/2014/10/NAO-DESISTA-DOS-SEUS-SONHOS.png)

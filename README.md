@@ -19,6 +19,7 @@ O objetivo do sistema é fornecer todas as ferramentas necessárias para o ciclo
 Repositórios:
 
 - [Pico da Neblina](https://github.com/splistcs/PicoDaNeblina)
+- [Fossa das Marianas - Code](https://github.com/splistcs/FossaDasMarianas-Code)
 
 -------------------------------------------------------------
 

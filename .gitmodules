@@ -1,3 +1,6 @@
 [submodule "EGS/3.Implementacao/FossaDasMarianas-Code"]
 	path = EGS/3.Implementacao/FossaDasMarianas-Code
 	url = https://github.com/splistcs/FossaDasMarianas-Code
+[submodule "FDM/3.Implementacao/FossaDasMarianas-Code"]
+	path = FDM/3.Implementacao/FossaDasMarianas-Code
+	url = https://github.com/splistcs/FossaDasMarianas-Code
